@@ -2,6 +2,6 @@
     "branches": {
         "combined": { "type": "all"},
         "dev":     { "type": "snapshot" },
-        "release": { "type": "release" },
+        "release": { "type": "release" }
     }
 }
