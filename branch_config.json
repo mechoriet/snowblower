@@ -1,3 +1,4 @@
+{
 "branches": {
     "combined": {
         "type": "all"
@@ -8,4 +9,5 @@
     "release": {
         "type": "release"
     }
+}
 }
