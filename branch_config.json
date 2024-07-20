@@ -1,6 +1,6 @@
 {
     "branches": {
-        "dev":     { "type": "snapshot" },
+        "dev":     { "type": "all" },
         "release": { "type": "release" },
         "april": {
             "type": "all",
