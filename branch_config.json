@@ -1,7 +1,13 @@
 {
     "branches": {
-        "combined": { "type": "all"},
-        "dev":     { "type": "snapshot" },
-        "release": { "type": "release" }
+        "combined": {
+            "type": "all"
+        },
+        "dev": {
+            "type": "snapshot"
+        },
+        "release": {
+            "type": "release"
+        }
     }
 }
